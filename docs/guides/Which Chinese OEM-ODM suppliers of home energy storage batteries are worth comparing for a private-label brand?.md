@@ -72,7 +72,7 @@ Keep energy and power separate throughout the comparison. Energy in kWh describe
 
 ## What does an existing private-label project show?
 
-HUISI's confirmed European distributor case shows how neutral packaging and consistent specifications can support an existing brand's move into home storage. The anonymous project is recorded through 2025 in the company knowledge base.
+HUISI's publicly shared European distributor case shows how neutral packaging and consistent specifications can support an existing brand's move into home storage. The anonymized case covers project information documented through 2025.
 
 The distributor already sold photovoltaic products under its own brand and wanted to add home batteries. Purchasing from separate sources created concerns about inconsistent specifications, packaging and quality-control coordination.
 
